@@ -6,7 +6,7 @@
 
 ## Installation
 
-- Download Sketch [plugin](http://github.com)
+- Download Sketch [plugin](https://github.com/fixate-ai/sketch-attention-prediction-plugin/releases/download/1.0.0/fixate.ai.sketchplugin-1.0.0.zip)
 - Go to Downloads folder
 - Double click on fixate.ai.sketchplugin file
 
