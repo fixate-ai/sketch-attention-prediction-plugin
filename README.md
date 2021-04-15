@@ -6,7 +6,7 @@
 
 ## Installation
 
-- Dowmload Sketch [plugin](http://github.com)
+- Download Sketch [plugin](http://github.com)
 - Go to Downloads folder
 - Double click on fixate.ai.sketchplugin file
 
@@ -19,7 +19,7 @@
 
 ## Troubleshooting
 
-If you start gettings error or whant to re-init plugin just go to Plugins -> Fixate.ai -> Clear Cache
+If you start getting error or want to re-init plugin just go to Plugins -> Fixate.ai -> Clear Cache
 
 ## Support
 
