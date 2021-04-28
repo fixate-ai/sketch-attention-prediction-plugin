@@ -6,7 +6,7 @@
 <description>Attention prediction plugin</description>
 <language>en</language>
 <item>
-  <enclosure url="https://github.com/fixate-ai/sketch-attention-prediction-plugin/releases/download/1.0.0/fixate.ai.sketchplugin-1.0.0.zip" sparkle:version="1.0.0"/>
+  <enclosure url="https://github.com/fixate-ai/sketch-attention-prediction-plugin/releases/download/1.2.0/fixate.ai.sketchplugin-1.2.0.zip" sparkle:version="1.2.0"/>
 </item>
 </channel>
 </rss>
